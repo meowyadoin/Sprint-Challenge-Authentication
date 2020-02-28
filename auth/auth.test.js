@@ -11,12 +11,12 @@ beforeEach(async() => {
 // Test data
 
 const testUser = {
-    username: 'Jonny Knuckles',
-    password: 'JonnyK'
+    username: 'jess novak',
+    password: 'jessica'
 }
 
 const testFail = {
-    username: 'Eric'
+    username: 'biggiesmalls'
 }
 
 // Register tests...
